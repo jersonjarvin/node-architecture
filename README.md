@@ -1,12 +1,12 @@
 # node-architecture <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg">
 
-Base Architecture for projects in Node JS based in Clean Architecture and DDD (Domain Driven Desing)
+Base Architecture for projects in Node JS based in Clean Architecture using Express and Inversify
 
 ### Folder structure
 
 ```
 └ application                   → Application services layer
-    └ use_cases                 → Application business rules
+    └ services                  → Application business rules
 └ domain                        → Enterprise core business layer such as domain model objects (Aggregates, Entities, Value Objects) and repository interfaces
 └ infrastructure                → Frameworks, drivers and tools such as Database, the Web Framework, mailing/logging/glue code etc.
     └ config                    → Application configuration files, modules and services
