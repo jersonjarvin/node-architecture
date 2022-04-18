@@ -1,0 +1,8 @@
+export enum ResponseCodes {
+  SUCCESS = '10000',
+  FAILURE = '10001',
+  RETRY = '10002',
+  INVALID_ACCESS_TOKEN = '10003',
+  HEADER_NOT_SENT = '1004',
+  MODEL_IS_NOT_VALID = '10005'
+}

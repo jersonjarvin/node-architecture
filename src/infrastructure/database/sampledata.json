@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "name": "alphonso mango",
+    "desc": "great Quality of Mango",
+    "type": "fruits",
+    "banner": "https://media.gettyimages.com/photos/mango-picture-id168370138?k=20&m=168370138&s=612x612&w=0&h=yZRNE3sEWMoFNHI0vQWvn4baLwjLK35MWqbN6j-kM5Y=",
+    "unit": 1,
+    "price": 300,
+    "available": true,
+    "suplier": "Golden seed firming"
+  },
+  {
+    "id": 2,
+    "name": "Apples",
+    "desc": "great Quality of Apple",
+    "type": "fruits",
+    "banner": "https://media.gettyimages.com/photos/red-apple-picture-id184276818?k=20&m=184276818&s=612x612&w=0&h=QxOcueqAUVTdiJ7DVoCu-BkNCIuwliPEgtAQhgvBA_g=",
+    "unit": 1,
+    "price": 140,
+    "available": true,
+    "suplier": "Golden seed firming"
+  },
+  {
+    "id": 3,
+    "name": "Kesar Mango",
+    "desc": "great Quality of Mango",
+    "type": "fruits",
+    "banner": "https://media.gettyimages.com/photos/mango-composition-picture-id1219273769?k=20&m=1219273769&s=612x612&w=0&h=0Lr0xZF2YMfszrn-hRQOm8Nvgtd7UcEDXNns2uSsRjA=",
+    "unit": 1,
+    "price": 170,
+    "available": true,
+    "suplier": "Golden seed firming"
+  },
+  {
+    "id": 4,
+    "name": "Langra Mango",
+    "desc": "great Quality of Mango",
+    "type": "fruits",
+    "banner": "https://media.gettyimages.com/photos/closeup-of-mango-cubes-against-white-background-picture-id1164534398?k=20&m=1164534398&s=612x612&w=0&h=oIP9ypqOSnX0k-rXRKMsXrXAe0B8v5jzFvbEue_fIHo=",
+    "unit": 1,
+    "price": 280,
+    "available": true,
+    "suplier": "Golden seed firming"
+  },
+  {
+    "id": 5,
+    "name": "Broccoli",
+    "desc": "great Quality of Fresh Vegetable",
+    "type": "vegetables",
+    "banner": "https://media.gettyimages.com/photos/healthy-fresh-rainbow-colored-fruits-and-vegetables-in-a-row-picture-id1208790364?k=20&m=1208790364&s=612x612&w=0&h=EMmRWT5P5qbUvy95RxDtUSWrttlIsuXqjzRFhnTxqMQ=",
+    "unit": 1,
+    "price": 280,
+    "available": true,
+    "suplier": "Golden seed firming"
+  },
+  {
+    "id": 6,
+    "name": "Cauliflower",
+    "desc": "great Quality of Fresh Vegetable",
+    "type": "vegetables",
+    "banner": "https://media.gettyimages.com/photos/man-holding-crate-ob-fresh-vegetables-picture-id870915532?k=20&m=870915532&s=612x612&w=0&h=_o_X2qBCvg_-9tRMkaAGjriT2WZj8O9kNtuYdFiMfrY=",
+    "unit": 1,
+    "price": 280,
+    "available": true,
+    "suplier": "Golden seed firming"
+  },
+  {
+    "id": 7,
+    "name": "Olive Oil",
+    "desc": "great Quality of Oil",
+    "type": "oils",
+    "banner": "https://media.gettyimages.com/photos/antipasti-olives-isolated-iii-picture-id97863822?k=20&m=97863822&s=612x612&w=0&h=LKi2WZUqcnWITr4ICXVAfcmmwIsmXQnjBU0qvzegVTk=",
+    "unit": 1,
+    "price": 400,
+    "available": true,
+    "suplier": "Golden seed firming"
+  }
+]

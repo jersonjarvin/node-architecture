@@ -1,0 +1,12 @@
+.docker
+coverage
+keys
+dist
+logs
+node_modules
+*.md
+swagger.yaml
+package-lock.json
+# package.json is formatted by package managers, so it is ignored
+package.json
+yarn.lock
